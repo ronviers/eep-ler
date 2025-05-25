@@ -170,5 +170,17 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.sys
+*.reg   
+*.inf
+*.manifest  
+
+
 # PyPI configuration file
 .pypirc
