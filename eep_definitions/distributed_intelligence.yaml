@@ -1,0 +1,6 @@
+# Copy the distributed intelligence YAML content here
+eep_id: "EEP_DISTRIBUTED_INTELLIGENCE"
+name: "Distributed Intelligence"
+version: "0.0.1"
+category: "Information_Processing_Intelligence"
+# ... (rest of the content from the artifact)
