@@ -180,7 +180,7 @@ $RECYCLE.BIN/
 *.reg   
 *.inf
 *.manifest  
-
+*Zone.Identifier
 
 # PyPI configuration file
 .pypirc
