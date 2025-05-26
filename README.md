@@ -147,6 +147,14 @@ With Sprint Zero complete, the foundation is established for:
     * Version management for definitions and ontology.
     * Performance monitoring and enhanced error handling.
 
+## Validation & Reference Cases
+
+### Reference Characterizations
+- `validation/reference_cases/`: Schema-compliant EEP characterizations of real phenomena
+- `validation/research_notes/`: Supporting analytical documentation
+
+### Current Validation Cases
+- **Kuramoto Model of Synchronization**: Demonstrates complex mathematical system characterization
 ---
 
 ## Development Status
